@@ -7,3 +7,5 @@ Simple syntax in C++: constructure, destructure, reference, pointer, virtual con
 Linked list, Array
 
 Tree: binary tree, DFS, BFS, binary search tree, AVL, Btree
+
+Hash Map
