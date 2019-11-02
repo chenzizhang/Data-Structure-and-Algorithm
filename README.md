@@ -1,5 +1,6 @@
 # Data-Structure-and-Algorithm
 This repository is for recording the practices in cs225 Data Structure course assignments and daily practices (potd).
+These files are my own answers.
 
 Topics:
 
