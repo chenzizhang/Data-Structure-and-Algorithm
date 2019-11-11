@@ -7,6 +7,6 @@ Topics:
 Simple syntax in C++: constructure, destructure, reference, pointer, virtual constructure, template, inheritance
 Linked list, Array
 
-Tree: binary tree, DFS, BFS, binary search tree, AVL, Btree
+Tree: binary tree, DFS, BFS, binary search tree, AVL, Btree, KDtree
 
-Hash Map
+Hash, Map, Heap
